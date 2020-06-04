@@ -1,0 +1,35 @@
+body {
+  background: #393e46;
+  text-align: center;
+}
+p {
+  color: white;
+  font-size: 2rem;
+  font-weight: 300;
+  font-family: "Merriweather"
+}
+h1 {
+  margin: 30px;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #30e3ca;
+  font-weight: bold;
+  font-family: "Montserrat";
+}
+img {
+  width: 80%;
+}
+footer {
+  font-family: "Montserrat";
+  color: white;
+  margin-top: 5%;
+  padding-top: 15px;
+}
+.container {
+  width: 70%;
+  margin: auto;
+}
+.dice {
+  display: inline-block;
+  margin: 30px;
+}
